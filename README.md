@@ -1,7 +1,17 @@
-# Youtube and spotify analysis
+# YouTube and Spotify Song Analysis and Visualization
 
-This is an exploratory analysis and visualization of songs on YouTube and Spotify, using data science tools to examine music listening trends. In this project, visualizations have been created to effectively represent the results.
+This project aims to analyze and visualize data on the most popular songs on YouTube and Spotify to better understand trends in the music industry. The data is collected using the YouTube and Spotify APIs and processed and analyzed using Python. This project was developed using Google Colab and a Kaggle dataset.
 
-The analysis focuses on several key aspects of music, such as the most played songs, how suitable a track is for dancing based on a combination of musical elements such as tempo, beat stability, beat strength and overall regularity, whether the song is available on Spotify as a single or included in an album, whether the song represents a perceptual measure of intensity and activity Graphs and charts are used to visualize the results clearly and concisely, allowing users to quickly understand patterns and trends in the data.
+## Prerequisites
 
-This project is useful for both music lovers and researchers interested in studying music consumption patterns. The results obtained can be used to inform music professionals, artists, producers and record labels about the popularity of certain genres and songs, which will help them make informed career decisions.
+To use this project, you'll need a Google account and access to Google Colab. 
+
+## Installation
+
+Clone this repository to your local machine.
+Upload the spotify_dataset.csv file to Google Colab. To do this, follow these steps:
+Open Google Colab and open notebook "SpotifyAndYoutubeAnalisys.ipynb".
+Run all the cells in the notebook to perform the song analysis and visualization.
+
+## Usage
+Once you've run all the cells in the notebook, you'll see the results of the song analysis and visualization. You can modify the code in the notebook to adjust the analysis and visualization parameters according to your needs. You can also use the results of the analysis and visualization to make informed decisions in the music industry.
